@@ -7,6 +7,7 @@ I care about the guy who will use my program.
 I also care about the guy who can `git blame` me 👀.
 
 - ✏️ Currently working with NodeJs, Redis, OAuth2, React [@ClubMed](https://github.com/ClubMediterranee)
+- ⚙️ Learning Rust with the current event [adventOfCode](https://adventofcode.com)
 - 🌱 Learning devOps with Terraform and AWS
 - 🔭 Reading about blockchain and Ethereum
 
@@ -29,10 +30,11 @@ I also care about the guy who can `git blame` me 👀.
 <img align="left" alt="aws" src="https://img.shields.io/badge/redis-%23DC382D?logo=redis&logoColor=white&style=for-the-badge" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/terraform-%237B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
 
+<!--
 <br>
 <br>
 
 
 ## Wanna chat ?
 ![5gs17s](https://user-images.githubusercontent.com/5860751/126036442-089b5471-361e-48b1-8674-991a4b6b5974.jpg)
-
+-->
