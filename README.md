@@ -7,7 +7,7 @@ I care about the guy who will use my program.
 I also care about the guy who can `git blame` me 👀.
 
 - ✏️ Currently working with NodeJs, Redis, OAuth2, React [@ClubMed](https://github.com/ClubMediterranee)
-- ⚙️ Learning Rust with the current event [adventOfCode](https://adventofcode.com)
+- 🦀 Learning Rust with the current event [adventOfCode](https://adventofcode.com)
 - 🌱 Learning devOps with Terraform and AWS
 - 🔭 Reading about blockchain and Ethereum
 
