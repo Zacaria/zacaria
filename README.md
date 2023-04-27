@@ -31,11 +31,8 @@ I also care about the guy who can `git blame` me 👀.
 <img align="left" alt="aws" src="https://img.shields.io/badge/redis-%23DC382D?logo=redis&logoColor=white&style=for-the-badge" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/terraform-%237B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
 
-<!--
-<br>
-<br>
+## Slides
 
-
-## Wanna chat ?
-![5gs17s](https://user-images.githubusercontent.com/5860751/126036442-089b5471-361e-48b1-8674-991a4b6b5974.jpg)
--->
+2017 - [React](https://havesome-react.surge.sh/#/)
+2017 - [Redux](https://havesome-redux.surge.sh/#/)
+2020 - [Webpack](https://havesome-webpack.surge.sh/#/)
