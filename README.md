@@ -31,8 +31,13 @@ I also care about the guy who can `git blame` me 👀.
 <img align="left" alt="aws" src="https://img.shields.io/badge/redis-%23DC382D?logo=redis&logoColor=white&style=for-the-badge" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/terraform-%237B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
 
+<br>
+<br>
+
 ## Slides
 
 2017 - [React](https://havesome-react.surge.sh/#/)
+
 2017 - [Redux](https://havesome-redux.surge.sh/#/)
+
 2020 - [Webpack](https://havesome-webpack.surge.sh/#/)
