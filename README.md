@@ -41,3 +41,5 @@ I also care about the guy who can `git blame` me 👀.
 2017 - [Redux](https://havesome-redux.surge.sh/#/)
 
 2020 - [Webpack](https://havesome-webpack.surge.sh/#/)
+
+2023 - [Rust](https://havesome-rust.surge.sh/#/)
