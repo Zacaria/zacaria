@@ -17,8 +17,12 @@ I also care about the guy who can `git blame` me 👀.
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://twitter.com/ChtatarZacaria)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zacariachtatar)
-<!--[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/3283097/zacaria)-->
-<!--[<img align="left" alt="pluralsight" src="https://img.shields.io/badge/pluralsight-%23F15B2A.svg?&style=for-the-badge&logo=pluralsight&logoColor=white" />](https://app.pluralsight.com/profile/zacaria-chtatar)-->
+
+<!--
+[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/3283097/zacaria)
+
+[<img align="left" alt="pluralsight" src="https://img.shields.io/badge/pluralsight-%23F15B2A.svg?&style=for-the-badge&logo=pluralsight&logoColor=white" />](https://app.pluralsight.com/profile/zacaria-chtatar)
+-->
 
 
 <br>
