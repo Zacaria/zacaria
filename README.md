@@ -7,10 +7,10 @@ I care about the guy who will use my program.
 I also care about the guy who can `git blame` me 👀.
 
 - ✏️ Currently working with NodeJs, Redis, Kibana, Artillery, React [@ClubMed](https://github.com/ClubMediterranee)
-- ⚛ Recently studied Quantum Computing at High School of Amsterdam, take a look at the [final project](https://jovian.ai/zacaria/quantumbb84tp) 🤯
-- 🦀 Learning Rust with the current event [advent of code](https://adventofcode.com)
+- 🦀 Having some Rust with the current event [advent of code](https://adventofcode.com)
+- 🔭 Reading about LLMs
 - 🌱 Learning devOps with Terraform and AWS
-- 🔭 Reading about blockchain and Ethereum
+- ⚛ Recently studied Quantum Computing at High School of Amsterdam, take a look at the [final project](https://jovian.ai/zacaria/quantumbb84tp) 🤯
 
 
 ## Connect with me
@@ -25,11 +25,13 @@ I also care about the guy who can `git blame` me 👀.
 <br>
 
 ## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="redis" src="https://img.shields.io/badge/redis-%23DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+<img align="left" alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img align="left" alt="kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/redis-%23DC382D?logo=redis&logoColor=white&style=for-the-badge" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/terraform-%237B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
+<img align="left" alt="terraform" src="https://img.shields.io/badge/terraform-%237B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
 
 <br>
 <br>
@@ -43,3 +45,7 @@ I also care about the guy who can `git blame` me 👀.
 2020 - [Webpack](https://havesome-webpack.surge.sh/#/)
 
 2023 - [Rust](https://havesome-rust.surge.sh/#/)
+
+2023 - [Forget TypeScript and choose Rust to build reliable, fast and cheap APIs](https://havesome-rust-apidays.surge.sh/)
+
+2024 - Incoming : Bun, Rust + LLMs
