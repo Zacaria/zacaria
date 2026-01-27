@@ -51,5 +51,3 @@ I also care about the guy who can `git blame` me 👀.
 2023 - [Rust](https://havesome-rust.surge.sh/#/)
 
 2023 - [Forget TypeScript and choose Rust to build reliable, fast and cheap APIs](https://havesome-rust-apidays.surge.sh/)
-
-2025 - Incoming : [Rust + LLMs](https://burn.dev/)
