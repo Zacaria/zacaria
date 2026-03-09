@@ -22,7 +22,7 @@ I also care about the guy who can `git blame` me 👀.
 <br>
 
 ## Expertise
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/AI-Engineering-black?style=flat-square&logo=openai" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/AI-Engineering-black?style=for-the-badge&logo=openai" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="redis" src="https://img.shields.io/badge/redis-%23DC382D?logo=redis&logoColor=white&style=for-the-badge" />
 <img align="left" alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
