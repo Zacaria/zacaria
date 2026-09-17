@@ -10,7 +10,7 @@ I also care about the guy who can `git blame` me 👀.
 - 🔥 Focused on software outputing value 
 - 🌱 Practicing and honing my prompting skills
 - ⚙️ My go to stack : Codex, TS, Node, Rust, Vercel
-- ⚛ My funniest experience so far : Quantum Computing at High School of Amsterdam, take a look at the [final project](https://jovian.ai/zacaria/quantumbb84tp) 🤯
+- ⚛ My funniest experience so far : Quantum Computing at High School of Amsterdam, take a look at the [final project](https://zacaria.github.io/quantum-bb84/) 🤯
 
 
 ## Expertise
