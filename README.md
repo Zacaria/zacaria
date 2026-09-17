@@ -47,3 +47,54 @@ I also care about the guy who can `git blame` me 👀.
 2023 - [Rust @ClubMed](https://havesome-rust.surge.sh/#/)
 
 2023 - [Rust APIs @ApiDays](https://havesome-rust-apidays.surge.sh/)
+
+2026 - [OIDC](https://havesomecode.github.io/havesome-oidc/)
+
+2026 - [TOML](https://havesomecode.github.io/havesome-toml/)
+
+2026 - [AI Memory](https://zacaria.github.io/havesome-memory/)
+
+## Hermes usage
+
+<img src="https://havesome-hermes-achievements.surge.sh/hermes-achievements.svg" width="860" alt="My unlocked Hermes achievements" />
+
+<details>
+  <summary>Debugging Chaos — 9 unlocked</summary>
+  <img src="https://havesome-hermes-achievements.surge.sh/categories/debugging-chaos.svg" width="860" alt="Debugging Chaos Hermes achievements" />
+</details>
+
+<details>
+  <summary>Lifestyle — 4 unlocked</summary>
+  <img src="https://havesome-hermes-achievements.surge.sh/categories/lifestyle.svg" width="860" alt="Lifestyle Hermes achievements" />
+</details>
+
+<details>
+  <summary>Hermes Native — 8 unlocked</summary>
+  <img src="https://havesome-hermes-achievements.surge.sh/categories/hermes-native.svg" width="860" alt="Hermes Native Hermes achievements" />
+</details>
+
+<details>
+  <summary>Research/Web — 4 unlocked</summary>
+  <img src="https://havesome-hermes-achievements.surge.sh/categories/research-web.svg" width="860" alt="Research/Web Hermes achievements" />
+</details>
+
+<details>
+  <summary>Vibe Coding — 7 unlocked</summary>
+  <img src="https://havesome-hermes-achievements.surge.sh/categories/vibe-coding.svg" width="860" alt="Vibe Coding Hermes achievements" />
+</details>
+
+<details>
+  <summary>Agent Autonomy — 6 unlocked</summary>
+  <img src="https://havesome-hermes-achievements.surge.sh/categories/agent-autonomy.svg" width="860" alt="Agent Autonomy Hermes achievements" />
+</details>
+
+<details>
+  <summary>Tool Mastery — 6 unlocked</summary>
+  <img src="https://havesome-hermes-achievements.surge.sh/categories/tool-mastery.svg" width="860" alt="Tool Mastery Hermes achievements" />
+</details>
+
+<details>
+  <summary>Model Lore — 6 unlocked</summary>
+  <img src="https://havesome-hermes-achievements.surge.sh/categories/model-lore.svg" width="860" alt="Model Lore Hermes achievements" />
+</details>
+
