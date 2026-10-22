@@ -6,10 +6,10 @@ I care about the guy who will use my program.
 <br>
 I also care about the guy who can `git blame` me 👀.
 
-- 🦀 Building my OpenClaw workflow
+- 🪽 Running my software factory together with [Hermes](https://hermes-agent.nousresearch.com/)
 - 🔥 Focused on software outputing value 
 - 🌱 Practicing and honing my prompting skills
-- ⚙️ My go to stack : Codex, TS, Node, Rust, Vercel
+- ⚙️ My go to stack : Codex, TS, Node, React, Rust, Vercel, Tauri
 - ⚛ My funniest experience so far : Quantum Computing at High School of Amsterdam, take a look at the [final project](https://zacaria.github.io/quantum-bb84/) 🤯
 
 
