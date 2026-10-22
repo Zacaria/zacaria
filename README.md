@@ -48,6 +48,8 @@ I also care about the guy who can `git blame` me 👀.
 
 2023 - [Rust APIs @ApiDays](https://havesome-rust-apidays.surge.sh/)
 
+2026 - [Worktrees](https://zacaria.github.io/havesome-worktrees/)
+
 2026 - [OIDC](https://havesomecode.github.io/havesome-oidc/)
 
 2026 - [TOML](https://havesomecode.github.io/havesome-toml/)
